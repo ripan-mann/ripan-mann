@@ -28,6 +28,6 @@ A Full Stack Web developer🎯 and designer🎨 from Vancouver.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ripanmann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ripandeepmann@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ripanmann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ripan%20Mann-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ripandeepmann@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ripandeepmann@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
