@@ -2,7 +2,7 @@
 A Full Stack Web developer🎯 and designer🎨 from Vancouver.
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎥 Currently Learning (GraphQL | VueJS)
+- 🎥 Currently Learning (MEVN Stack)
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/ripanmann/) - [E-mail](mailto:ripandeepmann@hotmail.com)
 
