@@ -8,8 +8,8 @@ IT and software generalist in Surrey, BC. I work full time at Sakura Distributor
 - **Sakura Distributors tools**
   - **RFQ Tracker (2026):** tracks every project quote from request to result. Replaced a four-tab Google Sheet. React, Vite and Tailwind on Supabase, deployed on Cloudflare Pages.
   - **Sakura Forms (2026):** online credit and COD account application app with an applicant portal, staff review and signed PDFs, built to replace PDFfiller. Launching on Sakura's own server. TypeScript on Supabase.
-  - **[Wire label station](https://github.com/ripan-mann/wire-label-station) (2026):** live on a warehouse PC, printing wire-cut labels on a label printer. Staff print from their phones over Wi-Fi. Node.js, Express and PDFKit.
-- **[Coastal Realty lobby display](https://github.com/ripan-mann/CoastalRealty-V2) (2025):** web app for a real estate office lobby that shows live MLS listings and rotates agent profiles, with an admin console for non-technical staff. Runs all day unattended. React, Material UI and Redux, with a Node.js, Express and MongoDB back end.
+  - **Wire label station (2026):** live on a warehouse PC, printing wire-cut labels on a label printer. Staff print from their phones over Wi-Fi. Node.js, Express and PDFKit.
+- **Coastal Realty lobby display (2025):** web app for a real estate office lobby that shows live MLS listings and rotates agent profiles, with an admin console for non-technical staff. Runs all day unattended. React, Material UI and Redux, with a Node.js, Express and MongoDB back end.
 - **Client websites (2021 to present):** Able Electrical and Fleetwood Children's Centre, a childcare centre (both built from scratch with Next.js, React, TypeScript and Tailwind), Platinum Connections, Bliss Blinds, Visa for Me Immigration, TruTidy (built pro bono), tagcpa.io, koracanada.com, and sakuracanada.com (Sakura's Shopify store, built by hand in 2021 with more than 3,000 products).
 
 ## Skills
